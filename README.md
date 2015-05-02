@@ -4,7 +4,7 @@
 
 #####Automatic city and state detection by using postal code. Address will be more precise by using MYPostalCode!
 
-#####For Demo of usage and function follo this link mypostalcode.systemparksini.com
+#####For Demo of usage and function follo this link http://mypostalcode.systemparksini.com
 
 #####For Documentation, Kindly visit https://github.com/farhanfuad/my-postal-code/wiki
 
